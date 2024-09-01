@@ -17,3 +17,13 @@ def greet(name):
 # Call the function
 print(greet("Alice"))
 ```
+
+## Learning Resources
+
+- [Python Official Documentation](https://docs.python.org/3/)
+- [W3Schools: Python Tutorial](https://www.w3schools.com/python/)
+
+## Next Steps
+
+1. Practice writing Python scripts.
+2. Learn about Python’s standard library and modules.
