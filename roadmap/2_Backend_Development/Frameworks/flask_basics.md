@@ -21,3 +21,13 @@ def home():
 if __name__ == '__main__':
     app.run(debug=True)
 ```
+
+## Learning Resources
+
+- [Flask Official Documentation](https://flask.palletsprojects.com/en/3.0.x/)
+- [Miguel Grinberg's Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+## Next Steps
+
+1. Build a small Flask application with routes and templates.
+2. Explore Flask extensions for added functionality.
