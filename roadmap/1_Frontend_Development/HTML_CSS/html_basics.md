@@ -22,3 +22,13 @@ HTML (HyperText Markup Language) is the standard language for creating web pages
 </body>
 </html>
 ```
+
+## Learning Resources
+
+- [MDN Web Docs: HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+- [W3Schools: HTML Tutorial](https://www.w3schools.com/html/)
+
+## Next Steps
+
+1. Practice creating simple HTML pages.
+2. Explore more HTML elements and attributes.
